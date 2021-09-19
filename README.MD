@@ -42,7 +42,8 @@ casper-client get-deploy --node-address http://localhost:11101 3e5a599faaef44ab1
 
 ## 2. Complete one of the existing tutorials for writing smart contracts
 
-Multi-Signature Tutorial
+#### Multi-Signature Tutorial
+
 ![](task02.png)
 
 ![](task02.1.png)
